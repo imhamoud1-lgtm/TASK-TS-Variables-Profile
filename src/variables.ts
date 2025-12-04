@@ -9,11 +9,11 @@
  * 5. image         -> assign it a value of a url of your image or ant image that represents you online
  */
 
-let fullName: string;
-let yearOfBirth: number;
-let hobby: string;
-let funFact: string;
-let image: string;
+let fullName: string = "Hamoud Alshrrah";
+let yearOfBirth: number = 2000;
+let hobby: string = "Gym";
+let funFact: string = "I love coding";
+let image: string = "https://example.com/picture.jpg";
 
 /**
  * Part 2: String Interpolation
